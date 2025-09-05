@@ -167,8 +167,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Taha Gobek**
-- GitHub: [@yourusername](https://github.com/gobektaha)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/tahagobek)
+- GitHub: [@gobektaha](https://github.com/gobektaha)
+- LinkedIn: [TahaGobek](https://linkedin.com/in/tahagobek)
 
 ## 🙏 Acknowledgments
 
