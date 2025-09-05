@@ -48,7 +48,7 @@ A modern, Spotify-inspired music playlist management application built with Reac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/music-playlist-manager.git
+   git clone https://github.com/gobektaha/music-playlist-manager.git
    cd music-playlist-manager
    ```
 
@@ -166,9 +166,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Taha Gobek**
+- GitHub: [@yourusername](https://github.com/gobektaha)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/tahagobek)
 
 ## 🙏 Acknowledgments
 
